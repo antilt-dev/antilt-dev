@@ -1,5 +1,6 @@
 <h1 align="center"> Oi 👋, eu sou o Gabriel Antunes!  </h1>
 <h2 align="center"> Desenvolvedor Full-Stack em desenvolvimento... </h2>
+<div align="center"><img width="600px" align="center" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"/></div>
 
    🌱 Eu atualmente estou estudando em um bootcamp de desenvolvedor **Web Full-Stack** na Labenu.
 
