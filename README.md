@@ -1,23 +1,22 @@
 <h1 align="center"> Oi, eu sou o Gabriel Antunes!  </h1>
 <h2 align="center"> Desenvolvedor Full-Stack </h2>
-<div align="center"><img width="600px" align="center" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"/></div>
 
-   <p align="center">🌱 Estou em meio a minha transição de carreira. Atualmente cursando o Bootcamp de Desenvolvedor Web Full-Stack Noturno na Labenu. Rcentemente encerramos a parte de Front-End, onde realizei diversos projetos utilizando HTML, CSS, Javascript, ReactJS, Styled-components, protocolo HTTP, Jest e metodologias ágeis (scrum/kanban).  </p>
-   
-   <h2 align="center">Linguagens e tecnologias</h2>
+  <p align="center">🌱 Estou em meio a minha transição de carreira. Atualmente cursando o Bootcamp de Desenvolvedor Web Full-Stack Noturno na Labenu. Rcentemente encerramos a parte de Front-End, onde realizei diversos projetos utilizando HTML, CSS, Javascript, ReactJS, Styled-components, protocolo HTTP, Jest e metodologias ágeis (scrum/kanban).  </p>
+  
+  <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,jest,mysql,styledcomponents,git&theme=light" />
   </a>
 </p>
+   
+
+<![](./profile-3d-contrib/profile-night-green.svg)
+
+ 
+   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antilt-dev&label=Profile%20views&color=0e75b6&style=flat" alt="antilt-dev" /> </p>
-
-<div align="center">
-  <a href="https://github.com/antilt-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antilt-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antilt-dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
   
@@ -30,5 +29,6 @@
   <a href="https://www.linkedin.com/in/gabriel-antunes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+   
 
 
