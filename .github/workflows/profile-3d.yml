@@ -1,3 +1,4 @@
+
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -13,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: antilt-dev
       - name: Commit & Push
         run: |
