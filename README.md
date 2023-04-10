@@ -1,7 +1,11 @@
 <h1 align="center"> Oi, eu sou o Gabriel Antunes!  </h1>
 <h2 align="center"> Desenvolvedor Full-Stack </h2>
 
-  <p align="center">🌱 Estou em meio a minha transição de carreira. Atualmente cursando o Bootcamp de Desenvolvedor Web Full-Stack Noturno na Labenu. Rcentemente encerramos a parte de Front-End, onde realizei diversos projetos utilizando HTML, CSS, Javascript, ReactJS, Styled-components, protocolo HTTP, Jest e metodologias ágeis (scrum/kanban).  </p>
+  <p align="center">
+    Descobri com quase 30 anos um novo caminho que pode entregar toda realização profissional que eu sempre busquei.
+    Sou extremamente apaxionado por solucionar problemas, tenho bom raciocínio lógico e busco através de projetos me desafiar cada vez mais e aplicar meus conhecimentos.
+  Aqui neste repositório você encontra projetos que foram importantes na minha formação e que me orgulho pelo que ele agregaram na minha caminhada.
+  </p>
   
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
